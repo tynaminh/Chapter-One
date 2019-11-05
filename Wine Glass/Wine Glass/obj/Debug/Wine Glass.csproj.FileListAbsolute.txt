@@ -1,0 +1,2 @@
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter One\Wine Glass\Wine Glass\obj\Debug\Wine Glass.csprojAssemblyReference.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter One\Wine Glass\Wine Glass\obj\Debug\Wine Glass.csproj.CoreCompileInputs.cache
